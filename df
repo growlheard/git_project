@@ -1,0 +1,55 @@
+[33mcommit 5b020afb521a7090ffefe0a657b1e3bf1d7322ae[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Growlheard <growlheard@gmail.com>
+Date:   Sun Jan 22 17:35:48 2023 +0300
+
+    Revert "Linux instead World"
+    
+    This reverts commit 0a7d8cbe71bb3f6a0dc1be634f572bbaa3580e63.
+
+[33mcommit 0a7d8cbe71bb3f6a0dc1be634f572bbaa3580e63[m
+Author: Growlheard <growlheard@gmail.com>
+Date:   Sun Jan 22 17:25:06 2023 +0300
+
+    Linux instead World
+
+[33mcommit 2621c4bb31d8986eced9354528a2847b3784fd56[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Growlheard <growlheard@gmail.com>
+Date:   Sun Jan 22 17:16:10 2023 +0300
+
+    hello World
+
+[33mcommit a43957201aabf67e87bc587efbd0688c48cb9255[m
+Author: Growlheard <growlheard@gmail.com>
+Date:   Thu Jan 19 21:12:11 2023 +0300
+
+    Linux instead World
+
+[33mcommit 16ad9f5998b10338a315bec6740764368cf59268[m
+Author: Growlheard <growlheard@gmail.com>
+Date:   Thu Jan 19 21:06:57 2023 +0300
+
+    change main.py
+
+[33mcommit bf65ccf8f75037483b580d5372aff2a8d5dac938[m
+Author: Alexey <123101047+growlheard@users.noreply.github.com>
+Date:   Thu Jan 19 21:00:06 2023 +0300
+
+    Create README.md
+
+[33mcommit f94543e14c224509036d33179650df85b8978586[m
+Author: Growlheard <growlheard@gmail.com>
+Date:   Thu Jan 19 20:24:24 2023 +0300
+
+    add tests
+
+[33mcommit 261737bf369a33361692c8a38c175b6983cedffb[m
+Author: Growlheard <growlheard@gmail.com>
+Date:   Thu Jan 19 20:23:58 2023 +0300
+
+    add main.py
+
+[33mcommit 328c1575a02dd3f858e590d607bb75de3241e3f0[m
+Author: Growlheard <growlheard@gmail.com>
+Date:   Thu Jan 19 20:09:56 2023 +0300
+
+    add gitignore
